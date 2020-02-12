@@ -11,15 +11,15 @@ const int lamp_pin = 4;
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "SSID"
+#define WLAN_SSID       "NISHANTH"
 #define WLAN_PASS       "password"
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    " AIO username "
-#define AIO_KEY         " AIO key "
+#define AIO_USERNAME    " ESAITHEKING "
+#define AIO_KEY         " B78998J98234T657129I256G734026 "
 
 /************ Global State  ******************/
 
