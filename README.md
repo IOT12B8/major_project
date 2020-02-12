@@ -11,7 +11,7 @@
 + Bread board
 
 ## Procedure:
-+ Circuit is connected such a way that Vcc is connected in voltage divider with 1.5k and 1.5k and 10 k resistor is connected in series with LDR and A0 pin of NodeMCU.Output is taken from a output pin of NodeMCU and make sure every node is grounded.Vcc that is supply range is 3.3V to 5V
++ Circuit is connected in such a way that Vcc is connected in voltage divider with 1.5k and 1.5k and 10 k resistor is connected in series with LDR and A0 pin of NodeMCU.Output is taken from a output pin of NodeMCU and make sure every node is grounded.Vcc that is supply range is 3.3V to 5V
 + Datas are collected,saved and can be monitored anytime,anywhere using cloud and it provides us a advantage of controlling or commanding using it.And the cloud platform we use is Adafruit IO.
 + Adafruit IO:  It is a solution for the construction of applications IoT created by Adafruit Industries, the well-known open-source hardware marketer, have created this platform for the internet of things based on platforms known as Arduino, Raspberry pi, ESP8266, Intel Galileo, Serial devices And Wifi among others. The Communication API is based on MQTT client with Adafruit servers. In a few minutes you can create a high quality dashboard.
 + Created a account on Adafruit and added downloaded libraries in the code and add the SSID and password in Adurino IDE and then enter username and key in the code and include header file of ESP8266
